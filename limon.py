@@ -1,5 +1,7 @@
 #!coding : utf-8
 #!usr/lib/python3.11
+#OPEN SOURCE BY JUTT
+print(" Open source by JUTTBRAND")
 ##------------------[ INSTALL-MENU ]------------------##
 import uuid
 import os,sys,time
